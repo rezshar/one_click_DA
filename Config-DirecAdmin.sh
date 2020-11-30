@@ -1,5 +1,5 @@
 #!/bin/bash
-#written by reza sharifi
+#written by Reza Sharifi (rsharifi210@gmail.com)
 
 function FUNC1() {
 
@@ -132,6 +132,13 @@ FUNC2;
 
 
 tput setaf 4;cat << "EOF"
++-------------------------------------+
+|                     	              |
+|  Configure directadmin version 2.0  |
+|       powered by GreenWeb©          |
++-------------------------------------+
+
+
   _____ _______       _____ _______ 
  / ____|__   __|/\   |  __ \__   __|
 | (___    | |  /  \  | |__) | | |   
