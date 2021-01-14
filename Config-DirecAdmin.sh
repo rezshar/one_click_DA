@@ -135,7 +135,7 @@ tput setaf 4;cat << "EOF"
 +-------------------------------------+
 |                     	              |
 |  Configure directadmin version 2.0  |
-|       powered by GreenWeb©          |
+|       powered by rezshar          |
 +-------------------------------------+
 
 
